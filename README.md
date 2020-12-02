@@ -1,4 +1,7 @@
-# InfinityRunner_Motoboy
- 
 
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/gabcordeiro/InfinityRunner_Motoboy/blob/main/main_capture.PNG”>
+# Motoboy Simulator
+
+<img width="964" alt="java 8 and prio java 8  array review example" src="https://github.com/gabcordeiro/InfinityRunner_Motoboy/blob/main/main_capture.PNG">
+
+Infinity Runner
+ 
