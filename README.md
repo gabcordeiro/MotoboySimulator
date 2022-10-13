@@ -6,3 +6,11 @@
 # Introducao
 
 Jogo estilo infinity runner com a tematica de um motoboy.
+
+Todos os graficos, musicas, e codigos criados por mim
+
+# Link do jogo atualizado
+
+https://drive.google.com/file/d/1WABWsZ7b5CQsjt2hLIgBH2NqATdlFKga/view?usp=sharing
+
+Testado em um A71
